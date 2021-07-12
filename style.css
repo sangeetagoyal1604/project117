@@ -1,0 +1,17 @@
+.heading{
+width: 100%;
+box-shadow: 20px 10px 19px rgb(210, 51, 30);
+}
+.beauty{
+background-color: rgb(155, 252, 99);
+float: none;
+margin:10px ;
+padding:6px ;
+border-radius: 21px;
+color: black;
+box-shadow: 8px 8px 5px #fce517;
+}
+.faces{
+    font-size: 19px;
+    box-shadow: 3px 3px 5px rgb(220, 251, 255);
+}
